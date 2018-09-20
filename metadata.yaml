@@ -1,5 +1,8 @@
 _repo: The-Great-Lakes-The-Vessels-That-Plough-Them-Their-Owners-Their-Sailors-and-Their-Cargoes-Tog__52976
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52976-h/images/cover.jpg
 creator:
   author:
     agent_name: Curwood, James Oliver
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1487
     wikipedia: http://en.wikipedia.org/wiki/James_Oliver_Curwood
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52976#The-Great-Lakes-The-Vessels-That-Plough-Them-Their-Owners-Their-Sailors-and-Their-Cargoes-Tog_
 gutenberg_issued: '2016-09-04'
 gutenberg_type: Text
 identifiers:
