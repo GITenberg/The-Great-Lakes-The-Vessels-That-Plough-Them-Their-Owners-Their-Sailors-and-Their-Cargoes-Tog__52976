@@ -1,0 +1,29 @@
+_repo: The-Great-Lakes-The-Vessels-That-Plough-Them-Their-Owners-Their-Sailors-and-Their-Cargoes-Tog__52976
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Curwood, James Oliver
+    birthdate: 1878
+    deathdate: 1927
+    gutenberg_agent_id: '1487'
+    url: http://www.gutenberg.org/2009/agents/1487
+    wikipedia: http://en.wikipedia.org/wiki/James_Oliver_Curwood
+description: ''
+gutenberg_issued: '2016-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52976'
+  lccn: 09011734
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inland navigation -- United States'
+- !lcsh 'Shipping -- Great Lakes (North America)'
+- !lcc 'HE'
+- !lcsh 'Great Lakes (North America)'
+- GITenberg
+title: "The Great Lakes\r\nThe Vessels That Plough Them: Their Owners, Their Sailors,\
+  \ and Their Cargoes, Together with a Brief History of Our Inland Seas"
+url: http://www.gutenberg.org/ebooks/52976
